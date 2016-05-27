@@ -29,6 +29,14 @@
 					}
 				},
 				{
+					"file": "/home/mohit/Mytest/README",
+					"settings":
+					{
+						"buffer_size": 18,
+						"line_ending": "Unix"
+					}
+				},
+				{
 					"file": "/home/mohit/Mytest/sample.c",
 					"settings":
 					{
@@ -119,7 +127,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -147,11 +155,39 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+							"file": "/home/mohit/Mytest/README",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18,
+										18
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
 							"file": "/home/mohit/Mytest/sample.c",
 							"semi_transient": false,
 							"settings":
@@ -175,7 +211,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
